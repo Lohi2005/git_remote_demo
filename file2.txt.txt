@@ -1,1 +1,2 @@
 This is file2
+new content file1 added
